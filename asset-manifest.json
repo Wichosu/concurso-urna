@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/urna-electronica/static/css/main.a4f09f9a.css",
+    "main.js": "/urna-electronica/static/js/main.34bc71ac.js",
+    "static/media/logo.png": "/urna-electronica/static/media/logo.ccf57bec3e90faffd866.png",
+    "index.html": "/urna-electronica/index.html",
+    "main.a4f09f9a.css.map": "/urna-electronica/static/css/main.a4f09f9a.css.map",
+    "main.34bc71ac.js.map": "/urna-electronica/static/js/main.34bc71ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4f09f9a.css",
+    "static/js/main.34bc71ac.js"
+  ]
+}
