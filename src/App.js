@@ -1,11 +1,16 @@
 import './App.css';
-import Logo from './components/Logo.jsx';
+import ScreenBlock from './components/ScreenBlock.jsx';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
+
+  const unblock = () => {
+    alert('desbloqueada');
+  }  
+
   return (
-    <div className='App'>
-      <Logo />
+    <div className='App' onClick={unblock}>
+      <ScreenBlock />
     </div>
   );
 }
